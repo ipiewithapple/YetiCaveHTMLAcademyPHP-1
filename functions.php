@@ -22,7 +22,3 @@ function filter_text($text)
     return $str;
 };
 
-function test(){
-    print_r('LOL');
-}
-
